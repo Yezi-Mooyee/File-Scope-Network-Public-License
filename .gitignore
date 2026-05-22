@@ -1,0 +1,35 @@
+
+
+.vscode/
+.history/
+
+
+
+
+
+# Windows
+**Thumbs.db
+**ehthumbs.db
+**.cab
+**.msi
+**.msm
+**.msp
+
+# macOS
+**.DS_Store
+**.AppleDouble
+**.LSOverride
+**._*
+**.Spotlight-V100
+**.Trashes
+**ehthumbs.db
+
+# Linux
+~
+**.directory
+**.swp
+**.swo
+**.swn
+
+
+
