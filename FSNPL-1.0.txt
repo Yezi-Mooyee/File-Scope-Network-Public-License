@@ -1,7 +1,7 @@
-AFFERO FILE-SCOPE PUBLIC LICENSE (AFPL)
+FILE-SCOPE NETWORK PUBLIC LICENSE (FSNPL)
 Version 1.0
 
-Project home page: https://github.com/Yezi-Mooyee/Affero-File-Scope-Public-License
+Project home page: https://github.com/Yezi-Mooyee/File-Scope-Network-Public-License
 
 This license is a modified version of the Mozilla Public License 2.0.
 It incorporates a file-scope “network interaction” condition inspired by
@@ -406,10 +406,10 @@ shall not be used to construe this License against a Contributor.
 
 EXHIBIT A – Source Code Form License Notice
 
-This Source Code Form is subject to the terms of the Affero File-Scope
-Public License, v. 1.0 (AFPL-1.0). If a copy of the AFPL was not
+This Source Code Form is subject to the terms of the File-Scope Network
+Public License, v. 1.0 (FSNPL-1.0). If a copy of the FSNPL was not
 distributed with this file, You can obtain one at
-<https://github.com/Yezi-Mooyee/Affero-File-Scope-Public-License/blob/main/AFPL%201.0.txt>.
+<https://github.com/Yezi-Mooyee/File-Scope-Network-Public-License/blob/main/FSNPL-1.0.txt>.
 
 If it is not possible or desirable to put the notice in a particular
 file, then You may include the notice in a location (such as a LICENSE
@@ -421,4 +421,4 @@ You may add additional accurate notices of copyright ownership.
 EXHIBIT B – “Incompatible With Secondary Licenses” Notice
 
 This Source Code Form is “Incompatible With Secondary Licenses”, as
-defined by the Affero File-Scope Public License, v. 1.0.
+defined by the File-Scope Network Public License, v. 1.0.
